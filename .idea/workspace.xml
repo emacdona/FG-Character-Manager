@@ -2,175 +2,11 @@
 <project version="4">
   <component name="ChangeListManager" verified="true">
     <list default="true" readonly="true" id="7bf00785-5a3a-4624-bac9-0a1acb46f954" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Ability.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Ability.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Order.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Order.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Prop001.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Prop001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Fortitude.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Fortitude.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Attackstat.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Attackstat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Name.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Name.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Source.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Source.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/A0Situational.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/A0Situational.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Ranged.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Ranged.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Prop002.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Prop002.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Specialabilitylist.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Specialabilitylist.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Amount.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Amount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Type.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Type.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Encumbrance.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Encumbrance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Trained.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Trained.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Keywords.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Keywords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Speed.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Speed.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Subclass.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Subclass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Props.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Props.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Class.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Class.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Defenses.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Defenses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damage.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Bonusmodifier.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Bonusmodifier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/characterManager.iml" afterPath="$PROJECT_DIR$/characterManager.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damagetype.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damagetype.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Powers.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Powers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Race.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Race.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Criticalbonus.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Criticalbonus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Passiveperception.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Passiveperception.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/A11Atwillspecial.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/A11Atwillspecial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Shortcut.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Shortcut.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Featlist.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Featlist.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Attacks.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Attacks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Armorcheckmultiplier.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Armorcheckmultiplier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damagestatmodifier.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damagestatmodifier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Weapon.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Weapon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Total.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Total.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Heavyarmor.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Heavyarmor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00014.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00014.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Armorcheckpenalty.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Armorcheckpenalty.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Paragon.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Paragon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/B2Channeldivinity.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/B2Channeldivinity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Final.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Final.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Rangeincrement.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Rangeincrement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Base.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Base.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Focus.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Focus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Count.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Count.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00011.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00011.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Atwillspecial.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Atwillspecial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Range.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Range.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Effects.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Effects.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Hp.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Hp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Cost.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Cost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Passiveinsight.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Passiveinsight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/B11Encounterspecial.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/B11Encounterspecial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Encounterspecial.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Encounterspecial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Melee.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Melee.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Usesavailable.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Usesavailable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Coins.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Coins.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Level.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Level.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00004.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00004.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Statname.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Statname.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00007.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00007.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Normalload.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Normalload.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/A1Atwill.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/A1Atwill.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Classskill.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Classskill.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/B1Encounter.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/B1Encounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Charisma.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Charisma.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Link.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Link.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Attackstatmodifier.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Attackstatmodifier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/CDaily.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/CDaily.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/ObjectFactory.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/ObjectFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Mitype.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Mitype.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00005.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00005.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Prepared.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Prepared.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00006.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00006.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00010.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00010.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damagebasicdice.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damagebasicdice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Misc.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Misc.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Flavor.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Flavor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Surgesmax.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Surgesmax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/A2Cantrip.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/A2Cantrip.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Powerfocus.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Powerfocus.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/App.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damagestat.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damagestat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Wisdom.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Wisdom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Shortdescription.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Shortdescription.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00017.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00017.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Bloodied.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Bloodied.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Score.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Score.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00001.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Exp.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Exp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Surge.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Surge.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Dexterity.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Dexterity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id001.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Character.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Character.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Levelbonus.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Levelbonus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Intelligence.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Intelligence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Dragload.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Dragload.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00002.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00002.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00008.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00008.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Label.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Label.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Recharge.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Recharge.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Amt.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Amt.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Action.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Action.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Root.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Root.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Constitution.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Constitution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Weight.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Weight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damagebonus.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damagebonus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00019.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00019.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Abilities.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Abilities.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Power.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Power.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damageweaponmult.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damageweaponmult.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Maxdeathsaves.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Maxdeathsaves.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Temporary.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Temporary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Inventorylist.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Inventorylist.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Implement.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Implement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Channeldivinity.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Channeldivinity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00009.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00009.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Powermode.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Powermode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Criticaldice.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Criticaldice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Used.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Used.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Cantrip.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Cantrip.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Combattoken.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Combattoken.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Expiration.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Expiration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Critical.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Critical.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Ac.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Ac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00016.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00016.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Powershow.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Powershow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/EItemdaily.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/EItemdaily.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/DUtility.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/DUtility.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Proficiencyweapon.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Proficiencyweapon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Armor.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Armor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Check.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Check.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Initiative.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Initiative.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Bonus.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Bonus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Strength.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Strength.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Faileddeathsaves.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Faileddeathsaves.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00018.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00018.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Showonminisheet.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Showonminisheet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Heavyload.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Heavyload.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Skilllist.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Skilllist.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Actionpoints.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Actionpoints.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Proficiencyarmor.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Proficiencyarmor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Carried.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Carried.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Save.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Save.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Wounds.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Wounds.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Will.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Will.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Load.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Load.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Damagedice.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Damagedice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Attackdef.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Attackdef.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Weaponlist.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Weaponlist.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Maxammo.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Maxammo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Enhancement.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Enhancement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Expneeded.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Expneeded.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Reflex.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Reflex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00003.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00003.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Effectsavemod.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Effectsavemod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Surgesused.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Surgesused.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00015.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00015.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00012.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00012.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Surgemodifier.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Surgemodifier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/Id00013.java" afterPath="$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00013.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="characterManager.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="characterManager.iws" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
     <option name="REVERSE_PATCH" value="false" />
@@ -230,7 +71,7 @@
       <file leaf-file-name="App.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -302,96 +143,13 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="characterManager" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="characterManager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.6 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="characterManager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.6 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="characterManager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.6 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="characterManager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.6 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -415,18 +173,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fantasyGrounds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -512,7 +258,6 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -551,7 +296,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="characterManager" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49611" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -688,27 +439,47 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
     <supportedVersion>125</supportedVersion>
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4143731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23151909" sideWeight="0.20948012" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7033639" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23151909" sideWeight="0.48318043" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24939074" sideWeight="0.6972477" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7033639" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967507" sideWeight="0.78134555" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24939074" sideWeight="0.6605505" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28593272" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36391437" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -723,7 +494,7 @@
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -745,118 +516,92 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Powers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="13" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/src.jar!/src/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2042" column="0" selection-start="86593" selection-end="86593" vertical-scroll-proportion="0.027777778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1902" selection-end="1902" vertical-scroll-proportion="0.027777778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="3124" selection-end="3124" vertical-scroll-proportion="0.027777778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Root.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="24" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.9496403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="0" selection-start="5143" selection-end="5143" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="0" selection-start="4448" selection-end="4448" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="0" selection-start="3531" selection-end="3531" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="0" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="0" selection-start="2835" selection-end="2835" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Id00006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Enhancement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Total.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="13" selection-start="1491" selection-end="1491" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Passiveperception.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/4E_JPG.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/B2Channeldivinity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="13" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Channeldivinity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1519" selection-end="1519" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Skilllist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="13" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.93929714">
+        <state line="324" column="0" selection-start="11451" selection-end="11451" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/A0Situational.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="9" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.12598425">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/A11Atwillspecial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.3258786">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/edmacdonald/fantasyGrounds/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/4E_JPG.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="239" column="4" selection-start="7851" selection-end="7851" vertical-scroll-proportion="0.9496403">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/src.jar!/src/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2042" column="0" selection-start="86593" selection-end="86593" vertical-scroll-proportion="0.027777778">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1902" selection-end="1902" vertical-scroll-proportion="0.027777778">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="3124" selection-end="3124" vertical-scroll-proportion="0.027777778">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/character/fourthEdition/jpg/Root.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="24" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.9496403">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/edmacdonald/fantasyGrounds/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

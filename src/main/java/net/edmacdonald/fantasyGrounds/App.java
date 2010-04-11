@@ -1,6 +1,7 @@
 package net.edmacdonald.fantasyGrounds;
 
 import net.edmacdonald.fantasyGrounds.character.fourthEdition.jpg.Root;
+import net.edmacdonald.fantasyGrounds.character.fourthEdition.jpg.Total;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
@@ -28,7 +29,9 @@ public class App
 
         Root r = (Root) um.unmarshal(is);
 
-        log.info(r.getCharacter().getName().getContent());
+        log.info("Character: " + r.getCharacter().getName().getContent());
+        log.info("Constitution: " + r.getCharacter().getAbilities().getConstitution().getScore().getValue());
+        log.info("Base Attack: " + ((Total) r.getCharacter().getAttacks().getBase().getContent().get(2)).getValue());
 
     }
 }
