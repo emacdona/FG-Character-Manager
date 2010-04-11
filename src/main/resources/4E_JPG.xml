@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="2.6">
+	<character portrait="">
+		<abilities>
+			<charisma>
+				<bonus type="number">0</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<check type="number">7</check>
+				<score type="number">11</score>
+			</charisma>
+			<constitution>
+				<bonus type="number">1</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<check type="number">8</check>
+				<score type="number">12</score>
+			</constitution>
+			<dexterity>
+				<bonus type="number">3</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<check type="number">10</check>
+				<score type="number">16</score>
+			</dexterity>
+			<intelligence>
+				<bonus type="number">6</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<check type="number">13</check>
+				<score type="number">22</score>
+			</intelligence>
+			<strength>
+				<bonus type="number">-1</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<check type="number">6</check>
+				<score type="number">9</score>
+			</strength>
+			<wisdom>
+				<bonus type="number">5</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<check type="number">12</check>
+				<score type="number">20</score>
+			</wisdom>
+		</abilities>
+		<actionpoints type="number">0</actionpoints>
+		<attacks>
+			<base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">7</total>
+			</base>
+			<damage>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</damage>
+			<melee>
+				<ability type="number">-1</ability>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">6</total>
+			</melee>
+			<ranged>
+				<ability type="number">3</ability>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">10</total>
+			</ranged>
+		</attacks>
+		<class>
+			<base type="string">Wizard</base>
+			<paragon type="string">Academy Master</paragon>
+		</class>
+		<coins>
+			<slot1>
+				<amount type="number">0</amount>
+			</slot1>
+			<slot2>
+				<amount type="number">0</amount>
+			</slot2>
+			<slot3>
+				<amount type="number">0</amount>
+			</slot3>
+			<slot4>
+				<amount type="number">0</amount>
+			</slot4>
+			<slot5>
+				<amount type="number">0</amount>
+			</slot5>
+			<slot6>
+				<amount type="number">0</amount>
+			</slot6>
+		</coins>
+		<combattoken type="token"></combattoken>
+		<defenses>
+			<ac>
+				<ability type="number">6</ability>
+				<armor type="number">0</armor>
+				<base type="number">17</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">23</total>
+			</ac>
+			<fortitude>
+				<ability type="number">1</ability>
+				<base type="number">17</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">18</total>
+			</fortitude>
+			<reflex>
+				<ability type="number">6</ability>
+				<armor type="number">0</armor>
+				<base type="number">17</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">23</total>
+			</reflex>
+			<save>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</save>
+			<will>
+				<ability type="number">5</ability>
+				<base type="number">17</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">22</total>
+			</will>
+		</defenses>
+		<encumbrance>
+			<armorcheckpenalty type="number">0</armorcheckpenalty>
+			<dragload type="number">450</dragload>
+			<heavyarmor type="number">0</heavyarmor>
+			<heavyload type="number">180</heavyload>
+			<load type="number">39</load>
+			<normalload type="number">90</normalload>
+		</encumbrance>
+		<exp type="number">57000</exp>
+		<expneeded type="number">0</expneeded>
+		<featlist>
+		</featlist>
+		<hp>
+			<bloodied type="number">39</bloodied>
+			<faileddeathsaves type="number">0</faileddeathsaves>
+			<maxdeathsaves type="number">3</maxdeathsaves>
+			<surge type="number">19</surge>
+			<surgemodifier type="number">0</surgemodifier>
+			<surgesmax type="number">7</surgesmax>
+			<surgesused type="number">0</surgesused>
+			<temporary type="number">0</temporary>
+			<total type="number">78</total>
+			<wounds type="number">0</wounds>
+		</hp>
+		<initiative>
+			<misc type="number">0</misc>
+			<temporary type="number">0</temporary>
+			<total type="number">10</total>
+		</initiative>
+		<inventorylist>
+			<id-00001>
+				<bonus type="number">3</bonus>
+				<carried type="number">1</carried>
+				<class type="string">Item Slot</class>
+				<cost type="string">21,000 gp</cost>
+				<count type="number">0</count>
+				<enhancement type="string">Fortitude, Reflex, and Will</enhancement>
+				<flavor type="string">This golden locket helps you make the most out of each moment.</flavor>
+				<level type="number">14</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Timeless Locket +3</name>
+				<powers>
+					<id-001>
+						<action type="string">Minor</action>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV2.itemTimelessLocketPower-Daily@4E Adventurer's Vault 2</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<recharge type="string">Daily</recharge>
+						<shortdescription type="string">Effect: You take a standard action.;</shortdescription>
+					</id-001>
+				</powers>
+				<props>
+					<prop001>
+						<shortdescription type="string">You gain an item bonus to initiative checks equal to the locket&#146;s enhancement bonus.</shortdescription>
+					</prop001>
+				</props>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00001</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Neck</subclass>
+				<weight type="number">0</weight>
+			</id-00001>
+			<id-00002>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Githweave Armor</name>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00003</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">2</weight>
+			</id-00002>
+			<id-00003>
+				<bonus type="number">3</bonus>
+				<carried type="number">1</carried>
+				<class type="string">Armor</class>
+				<cost type="string">13,000 gp</cost>
+				<count type="number">0</count>
+				<enhancement type="string">AC</enhancement>
+				<flavor type="string">Inlaid with esoteric runes, this armor can repel even the most persistent foes.</flavor>
+				<level type="number">12</level>
+				<mitype type="string">armor</mitype>
+				<name type="string">Repulsion Armor +3</name>
+				<powers>
+					<id-001>
+						<action type="string">Minor Action</action>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV.itemRepulsionArmorPower-Daily00@4E Adventurer's Vault</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<recharge type="string">Daily</recharge>
+						<shortdescription type="string">Effect: Whenever an enemy moves into an adjacent square, you can push that enemy 1 square as an immediate reaction. This power lasts until the end of the encounter.;</shortdescription>
+					</id-001>
+				</powers>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00003</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Cloth, Leather</subclass>
+				<weight type="number">0</weight>
+			</id-00003>
+			<id-00004>
+				<bonus type="number">3</bonus>
+				<carried type="number">1</carried>
+				<class type="string">Implement</class>
+				<cost type="string">17,000 gp</cost>
+				<count type="number">0</count>
+				<critical type="string">+3d6 critical damage</critical>
+				<enhancement type="string">attack rolls and damage rolls</enhancement>
+				<flavor type="string">The will of this orb&#146;s wielder imposes great force on an enemy, crippling his power.</flavor>
+				<level type="number">13</level>
+				<mitype type="string">weapon</mitype>
+				<name type="string">Orb of Ultimate Imposition +3</name>
+				<powers>
+					<id-001>
+						<action type="string">Free Action</action>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV.itemOrbOfUltimateImpositionPower-Daily00@4E Adventurer's Vault</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<recharge type="string">Daily</recharge>
+						<shortdescription type="string">Effect: Use this power when you use your orb of imposition class feature. Increase the penalty bestowed on your target by an amount equal to the enhancement bonus of this orb.;</shortdescription>
+					</id-001>
+				</powers>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00004</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Orb</subclass>
+				<weight type="number">0</weight>
+			</id-00004>
+			<id-00005>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Backpack (empty)</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.backpack_empty_@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">2</weight>
+			</id-00005>
+			<id-00006>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Bedroll</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.bedroll@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">5</weight>
+			</id-00006>
+			<id-00007>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Flint and steel</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.flintandsteel@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">0</weight>
+			</id-00007>
+			<id-00008>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Pouch, belt (empty)</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.pouchbelt_empty_@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">1</weight>
+			</id-00008>
+			<id-00009>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Rations, trail (10 days)</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.rationstrail_10days_@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">10</weight>
+			</id-00009>
+			<id-00010>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Rope, hempen (50 ft.)</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.ropehempen_50ft__@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">10</weight>
+			</id-00010>
+			<id-00011>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Sunrods (2)</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.sunrods_2_@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">2</weight>
+			</id-00011>
+			<id-00012>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Waterskin</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.waterskin@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">4</weight>
+			</id-00012>
+			<id-00013>
+				<carried type="number">1</carried>
+				<count type="number">0</count>
+				<name type="string">Spellbook</name>
+				<shortcut type="windowreference">
+					<class>referenceequipment</class>
+					<recordname>reference4EPHB.equipment.spellbook@4E Player's Handbook</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<weight type="number">3</weight>
+			</id-00013>
+			<id-00014>
+				<bonus type="number">1</bonus>
+				<carried type="number">1</carried>
+				<class type="string">Implement</class>
+				<cost type="string">680 gp</cost>
+				<count type="number">0</count>
+				<critical type="string">+1d6 critical damage</critical>
+				<enhancement type="string">attack rolls and damage rolls</enhancement>
+				<flavor type="string">The silvery sheen of this orb grows to surround you at your will, warding off danger.</flavor>
+				<level type="number">3</level>
+				<mitype type="string">weapon</mitype>
+				<name type="string">Orb of Sweet Sanctuary +1</name>
+				<powers>
+					<id-001>
+						<action type="string">Standard Action</action>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV.itemOrbOfSweetSanctuaryPower-Daily@4E Adventurer's Vault</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<recharge type="string">Daily</recharge>
+						<shortdescription type="string">Effect: Add 5 + the enhancement bonus of the orb to your defenses until the end of your next turn.;</shortdescription>
+					</id-001>
+				</powers>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00014</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Orb</subclass>
+				<weight type="number">0</weight>
+			</id-00014>
+			<id-00015>
+				<carried type="number">1</carried>
+				<class type="string">Item Slot</class>
+				<cost type="string">5,000 gp</cost>
+				<count type="number">0</count>
+				<flavor type="string">Use these gloves to keep your enemies at bay.</flavor>
+				<level type="number">10</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Antipathy Gloves</name>
+				<powers>
+					<id-001>
+						<action type="string">Standard Action</action>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV.itemAntipathyGlovesPower-Daily@4E Adventurer's Vault</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<recharge type="string">Daily</recharge>
+						<shortdescription type="string">Effect: Make an attack: Ranged 10; +13 vs. Reflex; on a hit, the target is restrained (save ends).;</shortdescription>
+					</id-001>
+				</powers>
+				<props>
+					<prop001>
+						<shortdescription type="string">An enemy must spend 1 extra square of movement to enter a square adjacent to you. An enemy that is pulled, pushed, or slid moves through those squares as normal.</shortdescription>
+					</prop001>
+				</props>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00015</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Hands</subclass>
+				<weight type="number">0</weight>
+			</id-00015>
+			<id-00016>
+				<carried type="number">1</carried>
+				<class type="string">Item Slot</class>
+				<cost type="string">13,000 gp</cost>
+				<count type="number">0</count>
+				<flavor type="string">Though these leather goggles have dark eye pieces, they sharpen your sight when making ranged attacks.</flavor>
+				<level type="number">12</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Eagle Eye Goggles</name>
+				<props>
+					<prop001>
+						<shortdescription type="string">Gain a +2 item bonus to ranged basic attack rolls.</shortdescription>
+					</prop001>
+				</props>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00016</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Head</subclass>
+				<weight type="number">0</weight>
+			</id-00016>
+			<id-00017>
+				<carried type="number">1</carried>
+				<class type="string">Item Slot</class>
+				<cost type="string">1,800 gp</cost>
+				<count type="number">0</count>
+				<flavor type="string">The adage, &#147;mind over matter,&#148; truly applies when you wear these bracers.</flavor>
+				<level type="number">6</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Bracers of Mental Might</name>
+				<powers>
+					<id-001>
+						<action type="string">Free Action</action>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV.itemBracersOfMentalMightPower-Encounter@4E Adventurer's Vault</recordname>
+						</link>
+						<name type="string">Power - Encounter</name>
+						<recharge type="string">Encounter</recharge>
+						<shortdescription type="string">Effect: Use this power when making a Strength attack, Strength check, or Strength-based skill check. Use your Intelligence, Wisdom, or Charisma modifier in place of your Strength modifier to determine the result of the roll.;</shortdescription>
+					</id-001>
+				</powers>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00017</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Arms</subclass>
+				<weight type="number">0</weight>
+			</id-00017>
+			<id-00018>
+				<carried type="number">1</carried>
+				<class type="string">Item Slot</class>
+				<cost type="string">2,600 gp</cost>
+				<count type="number">0</count>
+				<flavor type="string">This comfortable leather belt is worked with images of foodstuffs that nourish you.</flavor>
+				<level type="number">7</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Belt of Nourishment</name>
+				<props>
+					<prop001>
+						<shortdescription type="string">You gain a +3 item bonus to Endurance checks.</shortdescription>
+					</prop001>
+					<prop002>
+						<shortdescription type="string">You don&#146;t need to eat. You must wear the belt for 24 consecutive hours before this property functions.</shortdescription>
+					</prop002>
+				</props>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00018</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Waist</subclass>
+				<weight type="number">0</weight>
+			</id-00018>
+			<id-00019>
+				<carried type="number">1</carried>
+				<class type="string">Item Slot</class>
+				<cost type="string">520 gp</cost>
+				<count type="number">0</count>
+				<flavor type="string">This delicate footgear incorporates Feywild leaves into its design.</flavor>
+				<level type="number">2</level>
+				<mitype type="string">other</mitype>
+				<name type="string">Feyleaf Sandals</name>
+				<powers>
+					<id-001>
+						<action type="string">When you fall, instead teleport safely to the nearest horizontal surface within 5 squares that can support your weight, take no falling damage, and land on your feet</action>
+						<keywords type="string">Teleportation</keywords>
+						<link type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAV.itemFeyleafSandalsPower-Daily@4E Adventurer's Vault</recordname>
+						</link>
+						<name type="string">Power - Daily</name>
+						<recharge type="string">Daily</recharge>
+					</id-001>
+				</powers>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00019</recordname>
+				</shortcut>
+				<showonminisheet type="number">0</showonminisheet>
+				<subclass type="string">Feet</subclass>
+				<weight type="number">0</weight>
+			</id-00019>
+		</inventorylist>
+		<level type="number">15</level>
+		<levelbonus type="number">7</levelbonus>
+		<name type="string">Erevan</name>
+		<passiveinsight type="number">22</passiveinsight>
+		<passiveperception type="number">22</passiveperception>
+		<powerfocus>
+			<implement>
+				<order type="number">0</order>
+			</implement>
+			<weapon>
+				<order type="number">0</order>
+			</weapon>
+		</powerfocus>
+		<powermode type="string">standard</powermode>
+		<powers>
+			<a0-situational>
+				<power>
+					<id-00001>
+						<attacks>
+						</attacks>
+						<effects>
+						</effects>
+						<prepared type="number">1</prepared>
+						<recharge type="string">-</recharge>
+						<shortcut type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</shortcut>
+						<used type="number">0</used>
+					</id-00001>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</a0-situational>
+			<a1-atwill>
+				<power>
+					<id-00001>
+						<attacks>
+						</attacks>
+						<effects>
+						</effects>
+						<prepared type="number">1</prepared>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</shortcut>
+						<used type="number">0</used>
+					</id-00001>
+					<id-00002>
+						<action type="string">Minor</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane</keywords>
+						<name type="string">Light</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 5</range>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.featureLight@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: One object or unoccupied square; Effect: You cause the target to shed bright light. The light fills the target&#146;s square and all squares within 4 squares of it. The light lasts for 5 minutes. Putting out the light is a free action.; Special: You can have only one light cantrip active at a time. If you create a new light, your previously cast light winks out.</shortdescription>
+						<source type="string">Wizard Cantrip</source>
+						<used type="number">0</used>
+					</id-00002>
+					<id-00003>
+						<action type="string">Minor</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Conjuration</keywords>
+						<name type="string">Mage Hand</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 5</range>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.featureMageHand@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: You conjure a spectral, floating hand in an unoccupied square within range. The hand picks up, moves, or manipulates an adjacent object weighing 20 pounds or less and carries it up to 5 squares. If you are holding the object when you use this power, the hand can move the object into a pack, a pouch, a sheath, or a similar container and simultaneously move any one object carried or worn anywhere on your body into your hand. As a move action, you can move the hand up to 5 squares. As a free action, you can cause the hand to drop an object it is holding, and as a minor action, you can cause the hand to pick up or manipulate a different object.; Sustain Minor: You can sustain the hand indefinitely.; Special: You can create only one hand at a time.</shortdescription>
+						<source type="string">Wizard Cantrip</source>
+						<used type="number">0</used>
+					</id-00003>
+					<id-00004>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">endnext</expiration>
+								<label type="string">Invisible</label>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane</keywords>
+						<name type="string">Prestidigitation</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 2</range>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.featurePrestidigitation@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: Use this cantrip to accomplish one of the effects given below. ? Move up to 1 pound of material. ? Create a harmless sensory effect, such as a shower of sparks, a puff of wind, faint music, or a strong odor. ? Color, clean, or soil items in 1 cubic foot for up to 1 hour. ? Instantly light (or snuff out) a candle, a torch, or a small campfire. ? Chill, warm, or flavor up to 1 pound of nonliving material for up to 1 hour. ? Make a small mark or symbol appear on a surface for up to 1 hour. ? Produce out of nothingness a small item or image that exists until the end of your next turn. ? Make a small, handheld item invisible until the end of your next turn. Nothing you create with this cantrip can deal damage, serve as a weapon or a tool, or hinder another creature&#146;s actions. This cantrip cannot duplicate the effect of any other power.; Special: You can have as many as three prestidigitation effects active at one time.</shortdescription>
+						<source type="string">Wizard Cantrip</source>
+						<used type="number">0</used>
+					</id-00004>
+					<id-00005>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">reflex</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d4,d4</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">force</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Force, Implement</keywords>
+						<name type="string">Magic Missile</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 20</range>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerMagicMissile@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Hit: Increase damage to 4d4 + INT at 21st level.; Special: This power counts as a ranged basic attack. When a power allows you to make a ranged basic attack, you can use this power.</shortdescription>
+						<source type="string">Wizard Attack 1</source>
+						<used type="number">0</used>
+					</id-00005>
+					<id-00006>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">fortitude</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">thunder</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Implement, Thunder</keywords>
+						<name type="string">Thunderwave</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Close blast 3</range>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerThunderwave@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in blast; Hit: You push the target a number of squares equal to your WIS. Increase damage to 2d6 + INT at 21st level.</shortdescription>
+						<source type="string">Wizard Attack 1</source>
+						<used type="number">0</used>
+					</id-00006>
+					<id-00007>
+						<action type="string">-</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">-</keywords>
+						<name type="string">Orb of Imposition</name>
+						<prepared type="number">1</prepared>
+						<range type="string">-</range>
+						<recharge type="string">-</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.featureOrbOfImposition@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">-</shortdescription>
+						<source type="string">Wizard Feature</source>
+						<used type="number">0</used>
+					</id-00007>
+					<id-00008>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">will</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">radiant</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">endnext</expiration>
+								<label type="string">Dazed</label>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Implement, Radiant</keywords>
+						<name type="string">Color Spray</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Close blast 5</range>
+						<recharge type="string">Encounter</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerColorSpray@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in blast; Hit: The target is dazed until the end of your next turn.</shortdescription>
+						<source type="string">Wizard Attack 3</source>
+						<used type="number">0</used>
+					</id-00008>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</a1-atwill>
+			<a11-atwillspecial>
+				<power>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</a11-atwillspecial>
+			<a2-cantrip>
+				<power>
+					<id-00001>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Illusion</keywords>
+						<name type="string">Ghost Sound</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 10</range>
+						<recharge type="string">At-Will</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.featureGhostSound@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: One object or unoccupied square; Effect: You cause a sound as quiet as a whisper or as loud as a yelling or fighting creature to emanate from the target. You can produce nonvocal sounds such as the ringing of a sword blow, jingling armor, or scraping stone. If you whisper, you can whisper quietly enough that only creatures adjacent to the target can hear your words.</shortdescription>
+						<source type="string">Wizard Cantrip</source>
+						<used type="number">0</used>
+					</id-00001>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</a2-cantrip>
+			<b1-encounter>
+				<power>
+					<id-00001>
+						<action type="string">Standard</action>
+						<attacks>
+						</attacks>
+						<effects>
+						</effects>
+						<keywords type="string">Healing</keywords>
+						<name type="string">Second Wind</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Personal</range>
+						<recharge type="string">Encounter</recharge>
+						<shortcut type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: Spend a healing surge, and gain a +2 bonus to all defenses until the start of your next turn.</shortdescription>
+						<source type="string">General</source>
+						<used type="number">0</used>
+					</id-00001>
+					<id-00002>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">will</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">radiant</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">endnext</expiration>
+								<label type="string">Dazed</label>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Implement, Radiant</keywords>
+						<name type="string">Color Spray</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Close blast 5</range>
+						<recharge type="string">Encounter</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerColorSpray@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in blast; Hit: The target is dazed until the end of your next turn.</shortdescription>
+						<source type="string">Wizard Attack 3</source>
+						<used type="number">0</used>
+					</id-00002>
+					<id-00003>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Conjuration</keywords>
+						<name type="string">Wall of Fog</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area wall 8 within 10</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerWallOfFog@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: You conjure a wall that consists of contiguous squares filled with arcane fog. The wall lasts until the end of your next turn. It can be up to 8 squares long and up to 4 squares high. The fog grants concealment to creatures in its space and blocks line of sight.; Sustain Minor: The wall persists.</shortdescription>
+						<source type="string">Wizard Utility 6</source>
+						<used type="number">0</used>
+					</id-00003>
+					<id-00004>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">fire</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+							<id-00002>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6,d6,d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">fire</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">2</order>
+							</id-00002>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Conjuration, Fire, Implement</keywords>
+						<name type="string">Wall of Fire</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area wall 8 within 10 squares</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerWallOfFire@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: You conjure a wall that consists of contiguous squares filled with arcane fire. It can be up to 8 squares long and up to 4 squares high. The wall lasts until the end of your next turn. Any creature that starts its turn adjacent to the wall takes 1d6 + INT fire damage. If a creature moves into the wall&#146;s space or starts its turn there, the creature takes 3d6 + INT fire damage. Entering a square occupied by the wall costs 3 extra squares of movement. The wall blocks line of sight.; Sustain Minor: The wall persists.</shortdescription>
+						<source type="string">Wizard Attack 9</source>
+						<used type="number">0</used>
+					</id-00004>
+					<id-00005>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6,d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">cold</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+							<id-00002>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6,d6</damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">cold</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">2</order>
+							</id-00002>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Cold, Conjuration, Implement</keywords>
+						<name type="string">Wall of Ice</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area wall 12 within 10 squares</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerWallOfIce@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: You conjure a solid wall of contiguous squares filled with arcane ice. The wall can be up to 12 squares long and up to 6 squares high. Any creature that starts its turn adjacent to the wall takes 2d6 + INT cold damage. The wall blocks line of sight and prevents movement. No creature can enter a square containing the wall.; Special: As a standard action, a creature can attack one square of the wall. Each square has 50 hit points. Any creature that makes a melee attack against the wall takes 2d6 cold damage. The wall has vulnerability 25 to fire. If the wall is not destroyed, it melts away after 1 hour.</shortdescription>
+						<source type="string">Wizard Attack 15</source>
+						<used type="number">0</used>
+					</id-00005>
+					<id-00006>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">will</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">endnext</expiration>
+								<label type="string">Slowed</label>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Implement, Teleportation</keywords>
+						<name type="string">Twist of Space</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area burst 1 within 10 squares</range>
+						<recharge type="string">Encounter</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAP.powerTwistOfSpace@4E Arcane Power</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in burst; Hit: The target is teleported 3 squares and slowed until the end of your next turn.\r</shortdescription>
+						<source type="string">Wizard Attack 7</source>
+						<used type="number">0</used>
+					</id-00006>
+					<id-00007>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">fortitude</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d8,d8</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">cold</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">save</expiration>
+								<label type="string">Immobilized</label>
+							</id-00001>
+							<id-00002>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">save</expiration>
+								<label type="string">Slowed</label>
+							</id-00002>
+						</effects>
+						<keywords type="string">Arcane, Cold, Implement, Zone</keywords>
+						<name type="string">Ice Storm</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area burst 3 within 20 squares</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerIceStorm@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in burst; Hit: The target is immobilized (save ends).; Miss: Half damage, and the target is slowed (save ends).; Effect: The burst creates a zone of ice. The zone is difficult terrain until the end of the encounter or for 5 minutes.</shortdescription>
+						<source type="string">Wizard Attack 9</source>
+						<used type="number">0</used>
+					</id-00007>
+					<id-00008>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">will</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Illusion, Implement</keywords>
+						<name type="string">Illusory Wall</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area wall 8 within 20 squares</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAP.powerIllusoryWall@4E Arcane Power</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: You create the illusion of a contiguous wall of solid material (stone or metal, for example). The wall can be up to 8 squares long and 4 squares high. The wall blocks line of sight for all enemies (but not your allies). When any enemy moves adjacent to the wall, you can make an attack (INT vs. Will) against that target; if successful, the target cannot move through the wall on its current turn, but it can try again on later turns. On a miss, the wall no longer blocks line of sight or movement for that creature.; Sustain Minor: You can sustain this power until the end of the encounter.</shortdescription>
+						<source type="string">Wizard Utility 10</source>
+						<used type="number">0</used>
+					</id-00008>
+					<id-00009>
+						<action type="string">Minor</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Teleportation</keywords>
+						<name type="string">Arcane Gate</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 20</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerArcaneGate@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Two unoccupied squares; Effect: You create a dimensional rift between the two target squares that lasts until the end of your next turn. Any creature that enters one of the target squares can move to the other target square as if it were adjacent to that square. A creature cannot pass through the rift if either square is occupied by another creature.; Sustain Minor: The rift persists.</shortdescription>
+						<source type="string">Wizard Utility 10</source>
+						<used type="number">0</used>
+					</id-00009>
+					<id-00010>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">will</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice">d6</damagebasicdice>
+								<damagestat type="string">intelligence</damagestat>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damagetype type="string">necrotic</damagetype>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<label type="string">Blinded</label>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Illusion, Implement, Necrotic, Zone</keywords>
+						<name type="string">Orbmaster's Umbral Assault</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area burst 1 within 20 squares</range>
+						<recharge type="string">Encounter</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAP.powerOrbmastersUmbralAssault@4E Arcane Power</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in burst; Effect: The burst creates a zone of illusory darkness that lasts until the end of your next turn. All creatures are blinded while they are within the zone.\r Orb of Imposition: You can extend the duration of this effect, even though it is not an at-will power. If you do so, the zone expands to a burst 3 and doesn&#146;t affect you or your allies.\r</shortdescription>
+						<source type="string">Wizard Attack 13</source>
+						<used type="number">0</used>
+					</id-00010>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</b1-encounter>
+			<b11-encounterspecial>
+				<power>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</b11-encounterspecial>
+			<b2-channeldivinity>
+				<power>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</b2-channeldivinity>
+			<c-daily>
+				<power>
+					<id-00001>
+						<attacks>
+						</attacks>
+						<effects>
+						</effects>
+						<prepared type="number">1</prepared>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</shortcut>
+						<used type="number">0</used>
+					</id-00001>
+					<id-00002>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackdef type="string">will</attackdef>
+								<attackstat type="string">intelligence</attackstat>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">1</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">save</expiration>
+								<label type="string">Slowed</label>
+							</id-00001>
+							<id-00002>
+								<effectsavemod type="number">0</effectsavemod>
+								<expiration type="string">save</expiration>
+								<label type="string">Unconscious</label>
+							</id-00002>
+						</effects>
+						<keywords type="string">Arcane, Implement, Sleep</keywords>
+						<name type="string">Sleep</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area burst 2 within 20 squares</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerSleep@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: Each creature in burst; Hit: The target is slowed (save ends). If the target fails its first saving throw against this power, the target becomes unconscious (save ends).; Miss: The target is slowed (save ends).</shortdescription>
+						<source type="string">Wizard Attack 1</source>
+						<used type="number">0</used>
+					</id-00002>
+					<id-00003>
+						<action type="string">Standard</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane, Illusion, Implement, Zone</keywords>
+						<name type="string">Phantasmal Terrain</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Area burst 2 within 10 squares</range>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EAP.powerPhantasmalTerrain@4E Arcane Power</recordname>
+						</shortcut>
+						<shortdescription type="string">Effect: Until the end of the encounter, difficult terrain in the designated area costs 2 extra squares of movement instead of the normal 1 extra square for your enemies. Additionally, hazards and traps within the area gain a bonus to attack rolls equal to your INT against your enemies.</shortdescription>
+						<source type="string">Wizard Utility 2</source>
+						<used type="number">0</used>
+					</id-00003>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</c-daily>
+			<d-utility>
+				<power>
+					<id-00001>
+						<attacks>
+						</attacks>
+						<effects>
+						</effects>
+						<prepared type="number">1</prepared>
+						<shortcut type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</shortcut>
+						<used type="number">0</used>
+					</id-00001>
+					<id-00002>
+						<action type="string">Move</action>
+						<attacks>
+							<id-00001>
+								<attackstatmodifier type="number">0</attackstatmodifier>
+								<damagebasicdice type="dice"></damagebasicdice>
+								<damagestatmodifier type="number">0</damagestatmodifier>
+								<damageweaponmult type="number">0</damageweaponmult>
+								<focus type="number">0</focus>
+								<order type="number">0</order>
+							</id-00001>
+						</attacks>
+						<effects>
+							<id-00001>
+								<effectsavemod type="number">0</effectsavemod>
+							</id-00001>
+						</effects>
+						<keywords type="string">Arcane</keywords>
+						<name type="string">Jump</name>
+						<prepared type="number">1</prepared>
+						<range type="string">Ranged 10</range>
+						<recharge type="string">Encounter</recharge>
+						<shortcut type="windowreference">
+							<class>powerdesc</class>
+							<recordname>powerdesc4EPHB.powerJump@4E Player's Handbook</recordname>
+						</shortcut>
+						<shortdescription type="string">Target: You or one creature; Effect: The target makes an Athletics check to jump with a +10 power bonus, and the target does not have to move to make a running jump.</shortdescription>
+						<source type="string">Wizard Utility 2</source>
+						<used type="number">0</used>
+					</id-00002>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</d-utility>
+			<e-itemdaily>
+				<power>
+					<id-00001>
+						<attacks>
+						</attacks>
+						<effects>
+						</effects>
+						<prepared type="number">1</prepared>
+						<recharge type="string">Daily</recharge>
+						<shortcut type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</shortcut>
+						<used type="number">0</used>
+					</id-00001>
+				</power>
+				<usesavailable type="number">0</usesavailable>
+			</e-itemdaily>
+		</powers>
+		<powershow>
+			<atwillspecial type="number">1</atwillspecial>
+			<cantrip type="number">1</cantrip>
+			<channeldivinity type="number">1</channeldivinity>
+			<encounterspecial type="number">1</encounterspecial>
+		</powershow>
+		<proficiencyarmor>
+		</proficiencyarmor>
+		<proficiencyweapon>
+		</proficiencyweapon>
+		<race type="string">Eladrin</race>
+		<skilllist>
+			<id-00001>
+				<classskill type="number">0</classskill>
+				<label type="string">Insight</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">wisdom</statname>
+				<total type="number">12</total>
+				<trained type="number">0</trained>
+			</id-00001>
+			<id-00002>
+				<classskill type="number">0</classskill>
+				<label type="string">Perception</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">wisdom</statname>
+				<total type="number">12</total>
+				<trained type="number">0</trained>
+			</id-00002>
+			<id-00003>
+				<classskill type="number">0</classskill>
+				<label type="string">Arcana</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">intelligence</statname>
+				<total type="number">13</total>
+				<trained type="number">0</trained>
+			</id-00003>
+			<id-00004>
+				<classskill type="number">0</classskill>
+				<label type="string">Diplomacy</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">charisma</statname>
+				<total type="number">7</total>
+				<trained type="number">0</trained>
+			</id-00004>
+			<id-00005>
+				<classskill type="number">0</classskill>
+				<label type="string">Nature</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">wisdom</statname>
+				<total type="number">12</total>
+				<trained type="number">0</trained>
+			</id-00005>
+			<id-00006>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<classskill type="number">0</classskill>
+				<label type="string">Endurance</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">constitution</statname>
+				<total type="number">8</total>
+				<trained type="number">0</trained>
+			</id-00006>
+			<id-00007>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<classskill type="number">0</classskill>
+				<label type="string">Thievery</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">dexterity</statname>
+				<total type="number">10</total>
+				<trained type="number">0</trained>
+			</id-00007>
+			<id-00008>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<classskill type="number">0</classskill>
+				<label type="string">Acrobatics</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">1</showonminisheet>
+				<statname type="string">dexterity</statname>
+				<total type="number">10</total>
+				<trained type="number">0</trained>
+			</id-00008>
+			<id-00009>
+				<classskill type="number">0</classskill>
+				<label type="string">Religion</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">intelligence</statname>
+				<total type="number">13</total>
+				<trained type="number">0</trained>
+			</id-00009>
+			<id-00010>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<classskill type="number">0</classskill>
+				<label type="string">Athletics</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">strength</statname>
+				<total type="number">6</total>
+				<trained type="number">0</trained>
+			</id-00010>
+			<id-00011>
+				<classskill type="number">0</classskill>
+				<label type="string">Bluff</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">charisma</statname>
+				<total type="number">7</total>
+				<trained type="number">0</trained>
+			</id-00011>
+			<id-00012>
+				<classskill type="number">0</classskill>
+				<label type="string">Heal</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">wisdom</statname>
+				<total type="number">12</total>
+				<trained type="number">0</trained>
+			</id-00012>
+			<id-00013>
+				<classskill type="number">0</classskill>
+				<label type="string">Streetwise</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">charisma</statname>
+				<total type="number">7</total>
+				<trained type="number">0</trained>
+			</id-00013>
+			<id-00014>
+				<classskill type="number">0</classskill>
+				<label type="string">Dungeoneering</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">wisdom</statname>
+				<total type="number">12</total>
+				<trained type="number">0</trained>
+			</id-00014>
+			<id-00015>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<classskill type="number">0</classskill>
+				<label type="string">Stealth</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">dexterity</statname>
+				<total type="number">10</total>
+				<trained type="number">0</trained>
+			</id-00015>
+			<id-00016>
+				<classskill type="number">0</classskill>
+				<label type="string">Intimidate</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">charisma</statname>
+				<total type="number">7</total>
+				<trained type="number">0</trained>
+			</id-00016>
+			<id-00017>
+				<classskill type="number">0</classskill>
+				<label type="string">History</label>
+				<misc type="number">0</misc>
+				<showonminisheet type="number">0</showonminisheet>
+				<statname type="string">intelligence</statname>
+				<total type="number">13</total>
+				<trained type="number">0</trained>
+			</id-00017>
+		</skilllist>
+		<specialabilitylist>
+		</specialabilitylist>
+		<speed>
+			<armor type="number">0</armor>
+			<base type="number">0</base>
+			<final type="number">0</final>
+			<misc type="number">0</misc>
+			<temporary type="number">0</temporary>
+		</speed>
+		<weaponlist>
+			<id-00001>
+				<attackdef type="string">ac</attackdef>
+				<bonus type="number">3</bonus>
+				<criticalbonus type="number">0</criticalbonus>
+				<criticaldice type="dice">d6,d6,d6</criticaldice>
+				<damagebonus type="number">3</damagebonus>
+				<damagedice type="dice"></damagedice>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Orb of Ultimate Imposition +3</name>
+				<order type="number">1</order>
+				<rangeincrement type="number">0</rangeincrement>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00004</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00001>
+			<id-00002>
+				<attackdef type="string">ac</attackdef>
+				<bonus type="number">1</bonus>
+				<criticalbonus type="number">0</criticalbonus>
+				<criticaldice type="dice">d6</criticaldice>
+				<damagebonus type="number">1</damagebonus>
+				<damagedice type="dice"></damagedice>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Orb of Sweet Sanctuary +1</name>
+				<order type="number">2</order>
+				<rangeincrement type="number">0</rangeincrement>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>inventorylist.id-00014</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00002>
+		</weaponlist>
+	</character>
+</root>
