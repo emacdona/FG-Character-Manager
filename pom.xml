@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>characterManager</name>
   <url>http://maven.apache.org</url>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -14,12 +15,54 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+
     <dependency>
         <groupId>com.sun.xml.bind</groupId>
         <artifactId>jaxb-impl</artifactId>
         <version>2.1.8</version>
     </dependency>
+
+    <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.1.1</version>
+    </dependency>
+
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.15</version>
+      <optional>true</optional>
+
+      <!--
+        http://unitstep.net/blog/2009/05/18/resolving-log4j-1215-dependency-problems-in-maven-using-exclusions/
+        I don't feel like downloading this manually and putting them in my local repository (because then I can't
+        really ship this project around to friends and because I'm lazy).
+
+        If I recally, installing them locally requires clicking "okay" on a webpage, so it's not even as simple as
+        adding another repository. It involves manual processes. Screw that.
+      -->
+      <exclusions>
+        <exclusion>
+          <groupId>javax.mail</groupId>
+          <artifactId>mail</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>javax.jms</groupId>
+          <artifactId>jms</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.sun.jdmk</groupId>
+          <artifactId>jmxtools</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.sun.jmx</groupId>
+          <artifactId>jmxri</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
   </dependencies>
+
   <repositories>
      <repository>
     <id>java.net</id>
@@ -27,6 +70,7 @@
     <layout>legacy</layout>
     </repository>
   </repositories>
+
   <build>
     <plugins>
         <plugin>
